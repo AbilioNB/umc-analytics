@@ -1,9 +1,11 @@
-## Links
+## Desvendando o MCU o (Universo Marvel nos cinemas) com ajuda do Pandas (& o Python).
 
 
-[Exemplo 1 - MCU ](https://colab.research.google.com/drive/1QEXFlyAQH35dFEXvoPDYwn9cWp19LXTW )
+<img src=https://media.giphy.com/media/kkYbDLFmNvO4E/giphy.gif>
 
 
-[Atividade 1- Bolsas Capes](https://colab.research.google.com/drive/1NcvgvpOszUn5I1v3EY9DEA74XLtDuVPQ)
+### Desenvolvido por : Abílio Nogueira
 
-[Respostas Atividade 1](https://colab.research.google.com/drive/19Ot_nN9ufvUbO47Wm3pe0aoug9sPe-jG)
+Dataset: [UMC-Dataset](https://www.kaggle.com/abilionb/umc-movies2008-2019)
+
+Analise gerada pela base de dados : [Guist-Notebook](https://gist.github.com/AbilioNB/ae46fdc4fa6f94c3f5ad27e638b7df34)
